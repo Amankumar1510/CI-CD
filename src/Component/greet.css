@@ -1,0 +1,40 @@
+/* Style for the container */
+#login {
+    margin-top: 50px;
+  }
+  
+  /* Style for the login form */
+  .login {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  /* Style for the logo */
+  .login img {
+    display: block;
+    margin: 0 auto 20px;
+  }
+  
+  /* Style for the input fields */
+  .input-prepend {
+    margin-bottom: 15px;
+  }
+  
+  .input-prepend .add-on {
+    min-width: 30px;
+  }
+  
+  .input-prepend input {
+    width: calc(100% - 30px);
+  }
+  
+  /* Style for the remember me checkbox */
+  #remember-me {
+    display: block;
+    margin-bottom: 15px;
+  }
+  
+  /* Style for the submit button */
+  .btn-block {
+    width: 100%;
+  }
